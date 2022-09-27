@@ -1,2 +1,8 @@
-# Tarea 1: Redes densas
+<p align="center">
+Curso de aprendizaje profundo
+
+PCIC, UNAM
+Tarea 1: Redes densas*
+
 Jorge Alfonso Tonatiuh Martínez Galicia
+</p>
