@@ -3,7 +3,7 @@
 
 # PCIC, UNAM
 
-# Tarea 1: Redes densas*
+Tarea 1: Redes densas*
 
-#Jorge Alfonso Tonatiuh Martínez Galicia
+Jorge Alfonso Tonatiuh Martínez Galicia
 
