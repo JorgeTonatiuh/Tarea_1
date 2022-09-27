@@ -1,8 +1,9 @@
-<p align="center">
-Curso de aprendizaje profundo
 
-PCIC, UNAM
-Tarea 1: Redes densas*
+# Curso de aprendizaje profundo
 
-Jorge Alfonso Tonatiuh Martínez Galicia
-</p>
+# PCIC, UNAM
+
+# Tarea 1: Redes densas*
+
+#Jorge Alfonso Tonatiuh Martínez Galicia
+
